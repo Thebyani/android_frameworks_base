@@ -36,6 +36,11 @@
     <string name="defaultMsisdnAlphaTag" msgid="2850889754919584674">"MSISDN1"</string>
     <string name="mmiError" msgid="5154499457739052907">"حدثت مشكلة في الاتصال أو أن كود MMI غير صحيح."</string>
     <string name="mmiFdnError" msgid="5224398216385316471">"تم تقييد التشغيل لأرقام الاتصال الثابت فقط."</string>
+    <string name="profileNameDefault">الرئيسي</string>
+    <string name="profileNameWork">العمل</string>
+    <string name="profileNameHome">المنزل</string>
+    <string name="profileNameSilent">صامت</string>
+    <string name="profileNameNight">الليلي</string>
     <string name="serviceEnabled" msgid="8147278346414714315">"تم تمكين الخدمة."</string>
     <string name="serviceEnabledFor" msgid="6856228140453471041">"تم تمكين الخدمة لـ:"</string>
     <string name="serviceDisabled" msgid="1937553226592516411">"تم تعطيل الخدمة."</string>
@@ -139,6 +144,13 @@
     <string name="turn_off_radio" msgid="8198784949987062346">"إيقاف تشغيل الشبكة اللاسلكية"</string>
     <string name="screen_lock" msgid="799094655496098153">"تأمين الشاشة"</string>
     <string name="power_off" msgid="4266614107412865048">"إيقاف التشغيل"</string>
+    <string name="reboot_system">إعادة تشغيل الهاتف</string>
+    <string name="global_action_screenshot">تصوير الشاشة</string>
+    <string name="reboot_reboot">إعادة التشغيل</string>
+    <string name="reboot_recovery">الركفري</string>
+    <string name="reboot_download">الداونلود</string>
+    <string name="reboot_progress">…إعادة التشغيل</string>
+    <string name="reboot_confirm">سيتم إعادة تشغيل الهاتف</string>
     <string name="silent_mode_silent" msgid="319298163018473078">"إيقاف الرنين"</string>
     <string name="silent_mode_vibrate" msgid="7072043388581551395">"اهتزاز الرنين"</string>
     <string name="silent_mode_ring" msgid="8592241816194074353">"تشغيل الرنين"</string>
@@ -154,6 +166,8 @@
     <string name="global_actions" product="default" msgid="2406416831541615258">"خيارات الهاتف"</string>
     <string name="global_action_lock" msgid="2844945191792119712">"تأمين الشاشة"</string>
     <string name="global_action_power_off" msgid="4471879440839879722">"إيقاف التشغيل"</string>
+    <string name="global_action_reboot">إعادة التشغيل</string>
+    <string name="global_action_choose_profile">الوضع</string>
     <string name="global_action_toggle_silent_mode" msgid="8219525344246810925">"وضع صامت"</string>
     <string name="global_action_silent_mode_on_status" msgid="3289841937003758806">"الصوت متوقف"</string>
     <string name="global_action_silent_mode_off_status" msgid="1506046579177066419">"الصوت قيد التشغيل"</string>
